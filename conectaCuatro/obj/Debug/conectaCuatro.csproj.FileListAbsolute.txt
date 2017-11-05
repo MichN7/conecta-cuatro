@@ -1,0 +1,10 @@
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\bin\Debug\conectaCuatro.exe.config
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\bin\Debug\conectaCuatro.exe
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\bin\Debug\conectaCuatro.pdb
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.Tablero.resources
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.Properties.Resources.resources
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.csproj.GenerateResource.Cache
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.exe
+D:\Proyectos\C#\conectaCuatro\conectaCuatro\obj\Debug\conectaCuatro.pdb
